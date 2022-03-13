@@ -6,7 +6,7 @@ The stable matching algorithm provided by Gale and Shapley for that of matching 
 
 The following example shows that participants can be imported from a file or object list.
 
-```
+```java
 public class Main {
     public static void main(String[] args) {
         var result = StableMatching.builder()
