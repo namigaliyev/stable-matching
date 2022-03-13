@@ -1,0 +1,4 @@
+client,provider,provider1,provider2,provider3
+client1,provider1,provider,provider3,provider2
+client2,provider1,provider3,provider2,provider
+client3,provider,provider1,provider2,provider3
